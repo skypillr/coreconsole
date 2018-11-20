@@ -1,0 +1,11 @@
+E:\workspace\net\coreconsole\bin\Debug\netcoreapp2.0\coreconsole.deps.json
+E:\workspace\net\coreconsole\bin\Debug\netcoreapp2.0\coreconsole.runtimeconfig.json
+E:\workspace\net\coreconsole\bin\Debug\netcoreapp2.0\coreconsole.runtimeconfig.dev.json
+E:\workspace\net\coreconsole\bin\Debug\netcoreapp2.0\coreconsole.dll
+E:\workspace\net\coreconsole\bin\Debug\netcoreapp2.0\coreconsole.pdb
+E:\workspace\net\coreconsole\obj\Debug\netcoreapp2.0\coreconsole.csproj.CoreCompileInputs.cache
+E:\workspace\net\coreconsole\obj\Debug\netcoreapp2.0\coreconsole.AssemblyInfoInputs.cache
+E:\workspace\net\coreconsole\obj\Debug\netcoreapp2.0\coreconsole.AssemblyInfo.cs
+E:\workspace\net\coreconsole\obj\Debug\netcoreapp2.0\coreconsole.dll
+E:\workspace\net\coreconsole\obj\Debug\netcoreapp2.0\coreconsole.pdb
+E:\workspace\net\coreconsole\obj\Debug\netcoreapp2.0\coreconsole.csprojResolveAssemblyReference.cache
